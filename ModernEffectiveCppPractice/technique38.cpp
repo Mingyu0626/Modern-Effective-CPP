@@ -4,6 +4,7 @@
 #include <deque>
 #include <string>
 #include <thread>
+#include <future>
 #include <mutex>
 #include <cassert>
 #include <functional>
